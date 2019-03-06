@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShittyNote</string>
+    <string name="editor_header">Print your note here:</string>
+    <string name="button_save_text">Save!</string>
+    <string name="save_dialog_header">Enter filename:</string>
+    <string name="button_add_new">Add New</string>
+    <string name="button_delete">Delete</string>
+</resources>

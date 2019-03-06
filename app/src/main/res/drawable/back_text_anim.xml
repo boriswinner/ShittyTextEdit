@@ -1,0 +1,33 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/selected" android:oneshot="false">
+    <item android:drawable="@drawable/back_text00" android:duration="60" />
+    <item android:drawable="@drawable/back_text01" android:duration="60" />
+    <item android:drawable="@drawable/back_text02" android:duration="60" />
+    <item android:drawable="@drawable/back_text03" android:duration="60" />
+    <item android:drawable="@drawable/back_text04" android:duration="60" />
+    <item android:drawable="@drawable/back_text05" android:duration="60" />
+    <item android:drawable="@drawable/back_text06" android:duration="60" />
+    <item android:drawable="@drawable/back_text07" android:duration="60" />
+    <item android:drawable="@drawable/back_text08" android:duration="60" />
+    <item android:drawable="@drawable/back_text09" android:duration="60" />
+    <item android:drawable="@drawable/back_text10" android:duration="60" />
+    <item android:drawable="@drawable/back_text11" android:duration="60" />
+    <item android:drawable="@drawable/back_text12" android:duration="60" />
+    <item android:drawable="@drawable/back_text13" android:duration="60" />
+    <item android:drawable="@drawable/back_text14" android:duration="60" />
+    <item android:drawable="@drawable/back_text15" android:duration="60" />
+    <item android:drawable="@drawable/back_text16" android:duration="60" />
+    <item android:drawable="@drawable/back_text17" android:duration="60" />
+    <item android:drawable="@drawable/back_text18" android:duration="60" />
+    <item android:drawable="@drawable/back_text19" android:duration="60" />
+    <item android:drawable="@drawable/back_text20" android:duration="40" />
+    <item android:drawable="@drawable/back_text21" android:duration="40" />
+    <item android:drawable="@drawable/back_text22" android:duration="40" />
+    <item android:drawable="@drawable/back_text23" android:duration="40" />
+    <item android:drawable="@drawable/back_text24" android:duration="40" />
+    <item android:drawable="@drawable/back_text25" android:duration="40" />
+    <item android:drawable="@drawable/back_text26" android:duration="40" />
+    <item android:drawable="@drawable/back_text27" android:duration="40" />
+    <item android:drawable="@drawable/back_text28" android:duration="40" />
+    <item android:drawable="@drawable/back_text29" android:duration="40" />
+</animation-list>
